@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Arkadeep Chakraborty 👋
 
-<!--
-**arkadeep-c/arkadeep-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering Undergraduate  
+💻 Exploring Software Engineering & AI-Assisted Development  
+📍 Kolkata, India
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science and Engineering undergraduate interested in building practical software and exploring modern AI-assisted development workflows.
+
+Currently, I'm strengthening my foundations in programming, Data Structures & Algorithms, web development, and software engineering while working on practical projects.
+
+## Tech I'm Working With
+
+- C
+- Java
+- Python
+- Data Structures & Algorithms
+- AI-Assisted Development
+
+## Currently Learning
+
+- Web Development
+- Git & GitHub
+- Software Engineering
+- AI-powered applications
+
+## Projects
+
+🚧 Currently building my first projects — coming soon!
+
+## Connect With Me
+
+- LinkedIn — coming soon
